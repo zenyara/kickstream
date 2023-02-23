@@ -18,7 +18,6 @@ __!dance__ | __!lol__ | __!wow__ | __!omg__ | __!wtf__ | __!laugh__
 ## Project - Things to add: 
 * content/clip control - next, prev, play 1-20 (from list)
 * display current time on video
-* commands page on github (link in stream)
 * UI - add (incoming) messages to the screen
 * On-screen commands display
 * Change music - options: list, none
