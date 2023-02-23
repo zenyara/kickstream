@@ -2,7 +2,7 @@
 
 Developed for the livestream at: https://kick.com/dualturbos
 ## Description:  
-Using chat commands to interact with a playable 3D environment that contains the streamer's webcam and video content.
+Using chat commands to interact with a playable 3D environment that contains both the streamer's webcam and video content. Users can spawn objects in the 3D space from the Kick.com chat, change the video content, and other things.
 
 ## Commands:
 Video Control - control the video content:  
