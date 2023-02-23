@@ -15,7 +15,7 @@ __!throw__ | __!other__
 Emoting - spawns a 3d character and performs the action:  
 __!dance__ | __!lol__ | __!wow__ | __!omg__ | __!wtf__ | __!laugh__
 
-## To Do: 
+## Project - Things to add: 
 * content/clip control - next, prev, play 1-20 (from list)
 * display current time on video
 * commands page on github (link in stream)
