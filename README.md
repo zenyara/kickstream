@@ -3,4 +3,7 @@
 https://kick.com/dualturbos
 
 ## Commands:
-Change Video
+/mute | /unmute - video sound
+/pause | /unpause - video control
+/throw - throws a ball
+/vol (0-10) - video sound level
