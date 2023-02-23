@@ -2,7 +2,7 @@
 
 Developed for the livestream at: https://kick.com/dualturbos
 ## Description:  
-Stream webcam & video within a playable environment, plus working 3D chat commands.
+Using chat commands to interact with a playable 3D environment that contains the streamer's webcam and video content.
 
 ## Commands:
 Video Control - control the video content:  
