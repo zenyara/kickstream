@@ -4,10 +4,10 @@ https://kick.com/dualturbos
 
 ## Commands:
 Video Control - control the video content:  
-!mute | !unmute | !pause | !unpause | !vol (0-10)  
+__!mute__ | __!unmute__ | __!pause__ | __!unpause__ | __!vol__ (0-10)  
   
 Game Control - directly performs a game action:  
-!throw | !other  
+__!throw__ | __!other__  
   
 Emoting - spawns a 3d character and performs the action:  
-!dance | !lol | !wow | !omg | !wtf | !laugh
+__!dance__ | __!lol__ | __!wow__ | __!omg__ | __!wtf__ | __!laugh__
