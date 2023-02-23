@@ -1,7 +1,7 @@
 # Livestream Interactive Tool Description & Commands
 
 Developed for the livestream at: https://kick.com/dualturbos  
-Shorturl for this page: http://alturl.com/uvkip
+Shorturl for this page: http://alturl.com/uvkip (wip)
 ## Description:  
 Using chat commands to interact with a playable 3D environment that contains both the streamer's webcam and video content. Users can spawn objects in the 3D space from the Kick.com chat, change the video content, and other things. Heavily inspired by Valve's TF2 (one of my favorite games).
 
