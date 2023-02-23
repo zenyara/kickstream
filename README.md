@@ -1,6 +1,8 @@
-# kickstream Interactive Tools, Commands, and Description
+# Livestream Interactive Tool Description & Commands
 
-https://kick.com/dualturbos
+Developed for the livestream at: https://kick.com/dualturbos
+## Description:  
+Stream webcam & video within a playable environment, plus working 3D chat commands.
 
 ## Commands:
 Video Control - control the video content:  
