@@ -1,7 +1,6 @@
-# kickstream
-Kick Stream Interactive Tools, Commands, and Description
+# kickstream Interactive Tools, Commands, and Description
 
 https://kick.com/dualturbos
 
-Commands:
+## Commands:
 Change Video
