@@ -18,7 +18,7 @@ Once you achieve these 3 things, you will be able to get your account verfied an
 * Then, go to: https://kick.com/dashboard/stream and click "Start Streaming" (after the button comes alive)
 
 ## Resources - Helpful tools for streaming on Kick.com: 
-* [LiveBot](https://www.livebot.app/)
+* [LiveBot](https://www.livebot.app/) -  is the ultimate chatbot for streamers, with powerful features like chat moderation, viewer interaction, giveaway management, poll creation, etc.
 * More to come..
 
 ## Kick Chat Commands:
