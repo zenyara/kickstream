@@ -23,4 +23,4 @@ Once you achieve these 3 things, you will be able to get your account verfied an
 
 ## Kick Chat Commands:
 * Start by typing / in your Kick chat room to view moderator commands  
-__/ban__ <username> | __/clear__ | __/mod__ <username> | __/slowon__ | __/slowoff__ | __/title__ <title> | __/unban__ <username> | __/unmod__ <username>
+/ban &lt;username&gt; | /clear | /mod &lt;username&gt; | /slowon | /slowoff | /title &lt;title&gt; | /unban &lt;username&gt; | /unmod &lt;username&gt;
