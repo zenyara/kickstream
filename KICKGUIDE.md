@@ -7,25 +7,20 @@ Once the following 2 goals are reached, you will have to enable the subscription
 1. Gain 75 channel followers
 2. Stream for a total of 5 hours
 
-## How to Get Verified Partner Status on Kick.com
+## How to Get Verified Partner Status on Kick.com:
 Once you achieve these 3 things, you will be able to get your account verfied and have subscriptions enabled:
 1. Stream for 15 hours in the past 30 days
 2. Stream 7 unique days in the past 30 days
 3. Minimum concurrent viewers of 50 (peak viewership of a stream)
 
-## Tips:  
-* To successfully start your stream: click "start streaming" in BOTH OBS and in the backend of your Kick.com user page.
-* Next tip:
-* Next..
-
+## How to Start Your Stream on Kick.com:
+* First, click "Go Live" in OBS 
+* Then, go to: https://kick.com/dashboard/stream and click "Start Streaming" (after the button comes alive)
 
 ## Resources - Helpful tools for streaming on Kick.com: 
 * [LiveBot](https://www.livebot.app/)
-* Tool 2
+* More to come..
 
 ## Kick Chat Commands:
-User Commands - all users can use these:  
-__!cmd1__ | __!cmd2__ | __!cmd3__  
-  
-Admin Commands - administration-only:  
-__!cmd1__ | __!cmd2__  
+* Start by typing / in your Kick chat room to view moderator commands  
+__/ban__ <username> | __/clear__ | __/mod__ <username> | __/slowon__ | __/slowoff__ | __/title__ <title> | __/unban__ <username> | __/unmod__ <username>
