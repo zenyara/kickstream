@@ -1,6 +1,7 @@
 # Helpful Guide For Livestreaming on Kick.com
 
 Developed by dualturbos (https://kick.com/dualturbos) for the Kick community  
+Official Kick.com Discord - https://discord.gg/kick
 
 ## How to Enable Subscriptions (Paid Subs): 
 Once the following 2 goals are reached, you will have to enable the subscription button in your Kick.com dashboard (https://kick.com/dashboard/achievements):
