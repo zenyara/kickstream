@@ -16,7 +16,7 @@ Once you achieve these 3 things, you will be able to get your account verfied an
 
 ## How to Start Your Stream on Kick.com:
 * First, go to: https://kick.com/dashboard/settings/stream and grab the Stream URL and Stream Key to put into OBS
-* Then, put both the Stream URL and Stream Key into OBS %lt;%lt; Settings %lt;%lt; Stream %lt;%lt; Custom Streaming Server (dropdown)
+* Then, put both the Stream URL and Stream Key into OBS &lt;&lt; Settings &lt;&lt; Stream &lt;&lt; Custom Streaming Server (dropdown)
 * Next, click "Go Live" in OBS 
 * Finally, go to: https://kick.com/dashboard/stream and click "Start Streaming" (after the button comes alive)
 
