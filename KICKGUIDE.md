@@ -23,6 +23,7 @@ Once you achieve these 3 things, you will be able to get your account verfied an
 ## Resources - Helpful tools for streaming on Kick.com: 
 * [LiveBot](https://www.livebot.app/) -  is the ultimate chatbot for streamers, with powerful features like chat moderation, viewer interaction, giveaway management, poll creation, etc.
 * [NotiBot](https://notibot.app/) - alerts your personal Discord server when you "Go Live" on Kick.com.
+* [How To Setup Kick Alerts](https://www.youtube.com/watch?v=ObmY3dC8eEU) - Youtube tutorial
 
 ## Kick Chat Commands:
 * Start by typing / in your Kick chat room to view moderator commands  
